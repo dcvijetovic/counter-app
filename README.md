@@ -16,3 +16,7 @@ Express
 React
 React Router
 Jest
+
+## Login details
+email: optimus.prime@autobots.com
+password: validPassword1
